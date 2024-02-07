@@ -4,7 +4,7 @@
 
 # alphaama for StartOS
 
-[alphaama](https://github.com/eskema/alphaama) is just a nostr fucking client. This repository creates the s9pk package that is installed to run noStrudel on StartOS.
+[alphaama](https://github.com/eskema/alphaama) is just a nostr fucking client. This repository creates the s9pk package that is installed to run alphaama on StartOS.
 
 ## Dependencies
 

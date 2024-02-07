@@ -1,0 +1,3 @@
+[submodule "alphaama"]
+	path = alphaama
+	url = https://github.com/eskema/alphaama.git
